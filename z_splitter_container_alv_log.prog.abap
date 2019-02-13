@@ -196,14 +196,6 @@ START-OF-SELECTION.
             WITH sy-msgv1 sy-msgv2 sy-msgv3 sy-msgv4.
   ENDIF.
 
-
-
-
-
-
-
-
-
   CALL SCREEN 1000.
 
 
